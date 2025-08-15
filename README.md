@@ -41,14 +41,23 @@
 📊 **GitHub Stats**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarti12217444&layout=compact&theme=radical)
 
-![Aarti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarti12217444&show_icons=true&theme=radical)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aarti12217444&show_icons=true&theme=radical" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarti12217444&layout=compact&theme=radical" width="49%" />
 </p>
 
 ---
+
+🖱 Typing Speed Tester
+A web-based application to test and improve typing speed with real-time accuracy tracking.
+- Built using **HTML, CSS, and JavaScript**
+- Displays typing speed (WPM) and accuracy
+- Timer-based challenge mode
+
+[![View Repo](https://img.shields.io/badge/GitHub-View%20Repository-blue?logo=github)](https://github.com/aarti12217444/Typing-Speed-Tester)
+![GitHub repo size](https://img.shields.io/github/repo-size/aarti12217444/Typing-Speed-Tester)
+![GitHub stars](https://img.shields.io/github/stars/aarti12217444/Typing-Speed-Tester?style=social)
+
 
 ✍️ **Quote for the Day**  
 _"The best way to predict the future is to create it."_  
