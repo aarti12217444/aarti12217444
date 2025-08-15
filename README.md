@@ -40,7 +40,9 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" alt="Email" height="40" width="40"/>
   </a>
 </p>
+
 ---
+
 🌐 **Portfolio & Profiles**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aarti-kumari-3966)  
 - 🛠 [GitHub](https://github.com/aarti12217444)  
