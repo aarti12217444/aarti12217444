@@ -13,7 +13,34 @@
 ⚙️ Currently learning **Backend Development** for full-stack expertise.
 
 ---
+## 📫 Connect with Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/aarti-kumari-169588252/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" height="40" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/aarti12217444" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" alt="GitHub" height="40" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Aarti_kashyap/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/leetcode.svg" alt="LeetCode" height="40" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/aartikumari99344" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/hackerrank.svg" alt="HackerRank" height="40" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/aartikumari99344/?next=%2F&hl=en" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" height="40" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:aartikumari99344@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" alt="Email" height="40" width="40"/>
+  </a>
+</p>
+---
 🌐 **Portfolio & Profiles**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aarti-kumari-3966)  
 - 🛠 [GitHub](https://github.com/aarti12217444)  
@@ -93,6 +120,7 @@ A **Data Science project** analyzing HR data using **Tableau** to visualize empl
 </p>
 
 ---
+
 
 ✍️ **Quote for the Day**  
 > **"Code is like magic — the more you practice, the more powerful your spells become."** ✨💻
