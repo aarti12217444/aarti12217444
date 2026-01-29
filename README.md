@@ -1,3 +1,4 @@
+
 # Hi 👋, I'm Aarti
 
 **💻 Front-End Developer | 📊 Data Science Explorer | 📱 Android App Developer (Kotlin)**
@@ -126,3 +127,5 @@ A **Data Science project** analyzing HR data using **Tableau** to visualize empl
 
 ✍️ **Quote for the Day**  
 > **"Code is like magic — the more you practice, the more powerful your spells become."** ✨💻
+>
+> my Cv  (https://drive.google.com/file/d/1OH3YCNPO-SD0ceVnpRbjROrRzkohIKGs/view?usp=sharing)
