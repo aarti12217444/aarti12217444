@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Aarti
 
-**💻 Front-End Developer | 📊 Data Science Explorer | 📱 Android App Developer (Kotlin)**
+**💻 MERN Stack Developer | 📊 Data Science Explorer | 📱 Android App Developer (Kotlin)**
 
 ---
 
