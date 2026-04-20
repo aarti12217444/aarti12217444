@@ -75,14 +75,24 @@ A web-based system to manage books, issue/return records, and users efficiently.
 
 ---
 
-### 🌦 Mall Span Weather App
-A weather application that shows real-time weather updates and forecasts.  
-- Live temperature & conditions  
-- Search by city name  
-- Clean responsive UI  
+### 🛍 Mall Span Frontend Project
+A modern shopping mall website frontend designed with responsive UI and attractive layouts.  
+- Homepage with product sections  
+- Responsive design for all devices  
+- Clean navigation and modern interface  
 
 [https://github.com/aarti12217444/xyz-mall-project]
 ( https://github.com/aarti12217444/xyz-mall-project.git )
+---
+
+### 🌦 Weather Application
+A weather application that shows real-time weather updates and forecasts.  
+- Live temperature & conditions  
+- Search by city name  
+- Clean responsive UI   
+[https://github.com/aarti12217444/Weather-application]
+( https://visionary-seahorse-4a7eaf.netlify.app/)
+
 
 ---
 
