@@ -1,19 +1,18 @@
-
 # Hi 👋, I'm Aarti
 
-**💻 MERN Stack Developer | 📊 Data Science Explorer | 📱 Android App Developer (Kotlin)**
+**💻 Full Stack Developer | ⚡ MERN Stack Developer | 🚀 Aspiring SDE**
 
 ---
 
-🌱 **About Me**  
-🎓 I’m currently pursuing **B.Tech CSE** 
-💡 Passionate about building interactive web interfaces, analyzing data, and exploring AI concepts.  
-📱 Developed **2 Android apps** using Kotlin — from splash screens to fully functional features.  
-📊 Intermediate in **Data Science** — dashboards, predictive analysis, and visualization projects.  
-🤖 Beginner in **ML/AI** — exploring model building and analysis.  
-⚙️ Currently learning **Backend Development** for full-stack expertise.
+## 🌱 About Me
+🎓 I’m currently pursuing **B.Tech CSE**.  
+💡 Passionate about building scalable web applications and solving real-world problems.  
+🌐 Skilled in **Frontend Development, Backend Development, and Full Stack Development**.  
+⚡ Focused on creating responsive UI, efficient APIs, and clean code architecture.  
+📚 Constantly learning new technologies and improving problem-solving skills for **SDE roles**.  
 
 ---
+
 ## 📫 Connect with Me
 
 <p align="center">
@@ -32,91 +31,63 @@
   <a href="https://www.hackerrank.com/profile/aartikumari99344" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/hackerrank.svg" alt="HackerRank" height="40" width="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/aartikumari99344/?next=%2F&hl=en" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/instagram.svg" alt="Instagram" height="40" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:aartikumari99344@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/gmail.svg" alt="Email" height="40" width="40"/>
-  </a>
 </p>
 
 ---
 
-🌐 **Portfolio & Profiles**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/aarti-kumari-3966)  
-- 🛠 [GitHub](https://github.com/aarti12217444)  
-- 📊 [Tableau Public](https://public.tableau.com/app/profile/aarti.kumari3966)
+## 💬 Ask Me About
+- MERN Stack Development  
+- Frontend Development  
+- Backend Development  
+- Full Stack Projects  
+- Data Structures & Algorithms  
 
 ---
 
-💬 **Ask Me About**  
-- Front-End Development (HTML, CSS, JavaScript)  
-- Data Visualization (Tableau, Power BI)  
-- Android App Development (Kotlin)  
+## 🛠 Languages & Tools
+
+**Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap, Tailwind CSS  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB, MySQL  
+**Programming:** Java, JavaScript, C++  
+**Tools:** Git, GitHub, VS Code, Postman  
 
 ---
 
-🛠 **Languages & Tools**  
-**Front-End:** HTML5, CSS3, JavaScript, Bootstrap  
-**Data Science:** Python (Pandas, NumPy, Matplotlib), R, Tableau  
-**ML/AI:** scikit-learn, basic model training  
-**Mobile App Dev:** Kotlin, Android Studio, XML  
-**Databases:** MySQL, PostgreSQL  
-**Other Tools:** Git, GitHub, Canva, Figma  
+# 🚀 Projects
+
+### 📝 Take Exam
+An online examination platform for conducting tests with user-friendly interface.  
+- Secure login system  
+- Timer-based exam process  
+- Instant result generation  
+
+[https://github.com/aarti12217444/testvault]
+(https://testvault-1.onrender.com)
 
 ---
 
-
-
-### 🖱 Typing Speed Tester
-A desktop-based application to test and improve typing speed with real-time accuracy tracking.  
-- Built using **Java** (basic, not core Java framework)  
-- Displays typing speed (WPM) and accuracy  
-- Timer-based challenge mode  
-
-[![View Repo](https://img.shields.io/badge/GitHub-View%20Repository-blue?logo=github)](https://github.com/aarti12217444/Typing-Speed-Tester)
-![GitHub repo size](https://img.shields.io/github/repo-size/aarti12217444/Typing-Speed-Tester)
-![GitHub stars](https://img.shields.io/github/stars/aarti12217444/Typing-Speed-Tester?style=social)
+### 📚 Library Management System
+A web-based system to manage books, issue/return records, and users efficiently.  
+- Add / Update / Delete books  
+- Student record management  
+- Issue & Return tracking  
 
 ---
 
-### 🎮 Simon Says Game
-An interactive memory game where players repeat patterns of colors and sounds.  
-- Built using **HTML, CSS, and JavaScript**  
-- Dynamic difficulty increase  
-- Engaging animations & sounds  
+### 🌦 Mall Span Weather App
+A weather application that shows real-time weather updates and forecasts.  
+- Live temperature & conditions  
+- Search by city name  
+- Clean responsive UI  
 
-[![View Repo](https://img.shields.io/badge/GitHub-View%20Repository-blue?logo=github)](https://github.com/aarti12217444/Simon-saya-game)
-![GitHub repo size](https://img.shields.io/github/repo-size/aarti12217444/Simon-saya-game)
-![GitHub stars](https://img.shields.io/github/stars/aarti12217444/Simon-saya-game?style=social)
-
----
-
-### 🧠 MindCheck – Self-Identifying Mental Health & Support System
-An Android app for mental health self-assessment, wellness activities, and motivational resources.  
-- Developed in **Kotlin** with **Firebase Authentication & Firestore**  
-- Features mood tracker, self-assessment quiz, and activity suggestions  
-- Supports multiple languages (English & Hindi)  
-
-[![View Repo](https://img.shields.io/badge/GitHub-View%20Repository-blue?logo=github)](https://github.com/aarti12217444/abc)
-![GitHub repo size](https://img.shields.io/github/repo-size/aarti12217444/abc)
-![GitHub stars](https://img.shields.io/github/stars/aarti12217444/abc?style=social)
+[https://github.com/aarti12217444/xyz-mall-project]
+( https://github.com/aarti12217444/xyz-mall-project.git )
 
 ---
 
-### 📊 HR Analysis Dashboard
-A **Data Science project** analyzing HR data using **Tableau** to visualize employee trends, attrition, and insights.  
-- Built using **Tableau Public** for interactive dashboards  
-- Helps understand employee behavior, retention, and performance metrics  
-- Ideal for HR analytics and decision-making  
+## 📊 GitHub Stats
 
-[![View Dashboard](https://img.shields.io/badge/Tableau-View%20Dashboard-orange?logo=tableau)](https://public.tableau.com/app/profile/aarti.kumari3966/viz/dashboard_17289683320690/HRANALYSIS)
-
----
-
-### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aarti12217444&show_icons=true&theme=radical" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarti12217444&layout=compact&theme=radical" width="49%" />
@@ -124,7 +95,4 @@ A **Data Science project** analyzing HR data using **Tableau** to visualize empl
 
 ---
 
-
-✍️ **Quote for the Day**  
-> **"Code is like magic — the more you practice, the more powerful your spells become."** ✨💻
-
+⭐ Passionate about building impactful software solutions and continuously growing in Full Stack, MERN Stack, Frontend, Backend, and Software Development roles.
