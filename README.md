@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aarti
 
-**💻 Full Stack Developer | ⚡ MERN Stack Developer | 🚀 Aspiring SDE**
+**💻 Full Stack Developer | ⚡ MERN Stack Developer | 🚀 Aspiring SDE | System design**
 
 ---
 
